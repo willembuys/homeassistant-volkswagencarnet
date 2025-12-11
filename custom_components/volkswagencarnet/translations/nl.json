@@ -32,7 +32,7 @@
       },
       "reauth_confirm": {
         "data": {
-          "description": "Verifieer opnieuw met uw Volkswagen Connect-account. Zorg ervoor dat u elke nieuwe EULA in het Volkswagen Connect-portaal (https://www.volkswagen.com/) accepteert voordat u verdergaat.",
+          "description": "Verifieer opnieuw met uw Volkswagen Connect-account. Zorg ervoor dat u elke nieuwe EULA in het Volkswagen Connect-portaal (https://vwid.vwgroup.io//) accepteert voordat u verdergaat.",
           "email": "E-mail",
           "password": "Wachtwoord"
         }
@@ -43,8 +43,8 @@
       "reauth_successful": "Herauthenticatie is geslaagd"
     },
     "error": {
-      "cannot_connect": "Kan niet inloggen op Volkswagen Connect. Controleer uw inloggegevens en controleer of de service werkt. Dit kan worden veroorzaakt door een update van de algemene voorwaarden of communicatievoorkeuren. Probeer in te loggen via de app of https://www.volkswagen.com/.",
-      "cannot_update": Kan geen update opvragen bij Volkswagen Connect",
+      "cannot_connect": "Kan niet inloggen op Volkswagen Connect. Controleer uw inloggegevens en controleer of de service werkt. Dit kan worden veroorzaakt door een update van de algemene voorwaarden of communicatievoorkeuren. Probeer in te loggen via de app of https://vwid.vwgroup.io/.",
+      "cannot_update": "Kan geen update opvragen bij Volkswagen Connect",
       "unknown": "Er heeft zich een onbekende fout voorgedaan."
     },
     "progress": {
