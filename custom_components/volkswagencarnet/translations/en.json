@@ -56,7 +56,7 @@
     "step": {
       "user": {
         "title": "Options for Volkswagen Connect",
-        "description": "Configure update intervals",
+        "description": "Configure below options",
         "data": {
           "scan_interval": "Sensors update interval (minutes)",
           "region": "Region (The country where the car was sold)",
